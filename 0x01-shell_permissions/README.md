@@ -19,7 +19,7 @@ chmod 007 hello – others have all permissions
 
 chmod 753 hello – script for given mode
 
-chmod u-x,g+w,o+r-w-x hello – tried to be like another file
+chmod --reference olleh hello – tried to be like another file
 
 chmod 755 */ - script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
