@@ -1,2 +1,1 @@
-#!/bin/bash
-My first reame file in this project
+my readme file
